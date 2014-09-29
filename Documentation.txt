@@ -1,0 +1,7 @@
+File Uses and Sources:
+census_acs5_2012_B25041_Bedrooms.csv: From Aksel Olsen as test data to be used for the housing imputation task
+census_acs5_2012_B25042_TENURE_BY_BEDROOMS.csv: From Aksel Olsen as test data to be used for the housing imputation task
+census_api.ipynb: Shows how to use SynthPop census helper functions. From the demos folder of https://github.com/synthicity/synthpop/tree/master/demos
+state_codes.txt: Contains the state FIPS codes for US states. From https://www.census.gov/geo/reference/docs/state.txt
+national_county_codes.txt: Contains the county FIPS codes for US counties. From https://www.census.gov/geo/reference/codes/files/national_county.txt
+Census Data API: _data_2011_acs5_variables.html: Contains the table names and descriptions for all 2011 ACS5 tables. From http://api.census.gov/data/2011/acs5/variables.html
